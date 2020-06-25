@@ -1,7 +1,12 @@
 {
-"BIDSVersion": "1.0.0",
-"License": "",
-"Name": "MRI dataset",
-"ReferencesAndLinks": ["https://github.com/garciadias/Neuroharmony"],
-"Authors": ["", ""]
+    "BIDSVersion": "1.0.0",
+    "License": "CC0",
+    "Name": "Neuroharmony sample exanple",
+    "ReferencesAndLinks": [
+        "https://github.com/garciadias/Neuroharmony"
+    ],
+    "Authors": [
+        "",
+        ""
+    ]
 }
