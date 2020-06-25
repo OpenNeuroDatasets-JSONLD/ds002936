@@ -1,5 +1,5 @@
-participant_id	Diagn	Gender	Age
-sub-0001_T1w	1	1	21
-sub-0002_T1w	1	0	40
-sub-0003_T1w	1	0	21
+image_id	Diagn	Gender	Age
+sub-0001	1	1	21
+sub-0002	1	0	40
+sub-0003	1	0	21
 
