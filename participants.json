@@ -1,5 +1,5 @@
 {
-"participant_id": {"Description": "Arbitrary ID of the participants"},
+"image_id": {"Description": "Arbitrary ID of the participants"},
 "Diagn": {"Description": "The participant Diagnose, 1 means healthy control."},
 "Gender": {
   "Description": "sex of the participant",
